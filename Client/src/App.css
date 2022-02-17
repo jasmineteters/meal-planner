@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  background-color:gray
+}
+
+.App input{
+  width: 200px;
+  height: 50px;
+  padding: 5px;
+}
+
+.App label{
+  font-size: 20px;
+  padding: 5px;
+}
+
+.App button{
+  padding: 5px;
+  background-color: blanchedalmond;
+  font-size: 18px;
+}
+
+.App button:hover{
+  cursor: pointer;
+}
